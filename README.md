@@ -55,4 +55,11 @@ A button is selected when the point number 8 is in the same location which is sh
 ![Button press gesture](https://bostonglobe-prod.cdn.arcpublishing.com/resizer/fdHfgp51LzfrOwfP1mtQw0iAD88=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/UJPHCNAIXEI6NLRQD4MDZH4XQA.jpg)
 
 
+it is also worth noting that this works as a real keyboard so you have to write in something in order for you to use
+
+### Example:
+
+![screenshot](https://postimg.cc/Hr3qMR3K)
+
+
 
