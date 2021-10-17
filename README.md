@@ -46,5 +46,5 @@ python keyboard.py
 # Some notes about the keyboard:
 
 
-![hand tracking](https://{https://google.github.io/mediapipe/images/mobile/hand_landmarks.png})
+![Mediapipe hand tracking](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
 
