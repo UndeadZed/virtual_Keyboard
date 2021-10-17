@@ -29,4 +29,4 @@ git clone https://github.com/UndeadZed/virtual_Keyboard
 
 ## Step 4:
 
-install the requirements from the [requirements.txt file]()
+install the requirements from the [requirements.txt file](https://github.com/UndeadZed/virtual_Keyboard/blob/main/requirements.txt)
