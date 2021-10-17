@@ -59,7 +59,7 @@ it is also worth noting that this works as a real keyboard so you have to write 
 
 ### Example:
 
-![screenshot](https://postimg.cc/Hr3qMR3K)
+[![Screenshot-206.png](https://i.postimg.cc/zf18s1hJ/Screenshot-206.png)](https://postimg.cc/Hr3qMR3K)
 
 
 
