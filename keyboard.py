@@ -64,7 +64,7 @@ while True:
                 if l<30 and l>15:
                     if button.text == "_":
                         keyboard.press(" ")
-                    elif button.text == "<-":
+                    elif button.text == "<":
                         keyboard.press(Key.backspace)
                     else:
                         keyboard.press(button.text)
