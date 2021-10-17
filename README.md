@@ -1,6 +1,10 @@
 # virtual_Keyboard
 this is a lite easy to use virtual keyboard project for anyone to use
 
+# motivation
+
+I made this for this year's recruitment for RobEn AAST club
+
 # How to use:
 
 ## Step 1: 
@@ -60,6 +64,17 @@ it is also worth noting that this works as a real keyboard so you have to write 
 ### Example:
 
 [![Screenshot-206.png](https://i.postimg.cc/zf18s1hJ/Screenshot-206.png)](https://postimg.cc/Hr3qMR3K)
+
+
+# Credits:
+
+all of the hand tracking was thanks to the [google Mediapipe library](https://google.github.io/mediapipe/solutions/hands.html)
+
+also you should check the [CV Zone github repo.](https://github.com/cvzone/cvzone)
+
+and support [Murtaza Hassan](https://github.com/murtazahassan) since I basically made my version of his project
+
+
 
 
 
