@@ -45,6 +45,14 @@ python keyboard.py
 
 # Some notes about the keyboard:
 
+## these are the points that the hand tracking actually tracks
 
 ![Mediapipe hand tracking](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
+
+A button is selected when the point number 8 is in the same location which is shown by the button getting visibly darker but in order to register a button press you should connect your thumb with your index finger basically connecting point 8 with point 4 which would make this gesture for obvious reasons
+
+
+![Button press gesture](https://bostonglobe-prod.cdn.arcpublishing.com/resizer/fdHfgp51LzfrOwfP1mtQw0iAD88=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/UJPHCNAIXEI6NLRQD4MDZH4XQA.jpg)
+
+
 
