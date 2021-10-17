@@ -1,0 +1,3 @@
+pynput==1.7.4
+cvzone==1.4.1
+mediapipe==0.8.3
