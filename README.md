@@ -37,4 +37,14 @@ pip install -r requirements.txt
 
 ## Step 5:
 
+now we're done with the setup you can now use the virtual keyboard by typing this command in the terminal
+
+```python
+python keyboard.py
+```
+
+# Some notes about the keyboard:
+
+
+
 
