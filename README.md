@@ -29,4 +29,12 @@ git clone https://github.com/UndeadZed/virtual_Keyboard
 
 ## Step 4:
 
-install the requirements from the [requirements.txt file](https://github.com/UndeadZed/virtual_Keyboard/blob/main/requirements.txt)
+install the requirements from the [requirements.txt file](https://github.com/UndeadZed/virtual_Keyboard/blob/main/requirements.txt) by typing the following command in the terminal
+
+```python
+pip install -r requirements.txt
+```
+
+## Step 5:
+
+
