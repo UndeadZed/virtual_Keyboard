@@ -3,7 +3,7 @@ this is a lite easy to use virtual keyboard project for anyone to use
 
 # How to use:
 
-## First Step: 
+## Step 1: 
 
 I recommend that you setup a virtual environment using anaconda or python venv
 
@@ -11,7 +11,7 @@ I recommend that you setup a virtual environment using anaconda or python venv
 conda create -n env_name python=3.6
 ```
 
-## Second Step:
+## Step 2:
 
 activate the environment using the following command
 
@@ -19,10 +19,14 @@ activate the environment using the following command
 conda activate env_name
 ```
 
-## Third Step:
+## Step 3:
 
 you should clone the repository if you haven't already using the following command or just by installing the project directly
 
 ```python
-git clone 
+git clone https://github.com/UndeadZed/virtual_Keyboard
 ```
+
+## Step 4:
+
+install the requirements from the [requirements.txt file]()
